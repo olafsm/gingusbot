@@ -1,0 +1,12 @@
+{
+    "name": "gingusbot",
+    "version": "1.0.0",
+    "description": "Lets you add keywords and set replies",
+    "main": "bot.js",
+    "author": "gingus#0001",
+    "dependencies": {
+        "discord.io": "github:woor/discord.io#gateway_v6",
+        "discord.js": "^13.3.0",
+        "winston": "^3.3.3"
+    }
+}
